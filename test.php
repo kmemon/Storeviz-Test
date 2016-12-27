@@ -1,4 +1,3 @@
 <?php
-echo "hellomok";
-echo "pushing it";
+echo "Working";
 ?>
