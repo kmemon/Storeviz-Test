@@ -1,0 +1,7 @@
+diff a/test.php b/test.php	(rejected hunks)
+@@ -1,4 +1,3 @@
+ <?php
+-echo "hellomok";
+-echo "pushing it";
++echo "Working";
+ ?>
